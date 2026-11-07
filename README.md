@@ -5,7 +5,7 @@
 Daily inventory analysis at a warehouse for a New England distributor of TCL air-conditioning systems, using exploratory data analysis to catch stock discrepancies and inform restocking.
 
 ## Demo video
-[▶ Watch the demo](demo/ventrix-explainer.mp4): a 15-second explainer animation of how the project works (not real project footage).
+[▶ Watch the demo](demo/ventrix-explainer.mp4): a 15-second explainer animation: a warehouse heat map of AC units by storage bay (illustrative data, not real project footage).
 
 Also on my website: https://ryanli0819.github.io/#project-ventrix
 
